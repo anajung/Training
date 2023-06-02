@@ -63,6 +63,10 @@ data storage:
 ```
 | Run #  | Status | location |
 | ------------- | ------------- | ------------- | 
-| 2863415  | plots and csv generated | /Users/anajung/Handley Lab Dropbox/Ana Jung/HandleyLab/data/RNAseq/Hana/Diamond_s6491_MGI4045 | 
-| 2863738  | incomplete | /Users/anajung/Handley Lab Dropbox/Ana Jung/HandleyLab/data/RNAseq/Hana/Diamond_s6507_MGI4102 | 
-| 2863960  | incomplete | /Users/anajung/Handley Lab Dropbox/Ana Jung/HandleyLab/data/RNAseq/Hana | 
+| MGI4045  | plots and csv generated | /Handley Lab Dropbox/Ana Jung/HandleyLab/data/RNAseq/Hana/Diamond_s6491_MGI4045 | 
+| MGI4102  | incomplete | Handley Lab Dropbox/Ana Jung/HandleyLab/data/RNAseq/Hana/Diamond_s6507_MGI4102 | 
+| -  | incomplete | Handley Lab Dropbox/Ana Jung/HandleyLab/data/RNAseq/Hana | 
+
+MGI4102
+Compare two groups: WNV muscularis CD4  T cells (W1-4M CD4) vs CD8  T cells (W1-4M CD8)
+metadata: meta.csv
